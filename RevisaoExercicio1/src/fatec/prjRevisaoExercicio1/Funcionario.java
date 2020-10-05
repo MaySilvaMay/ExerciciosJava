@@ -85,7 +85,7 @@ public class Funcionario {
 
     public void demiteFuncionario() {
         ativo = false;
-        System.out.println("Funcionario inativado com sucesso!");
+        System.out.println("Funcionario inativado com sucesso! ");
     }
 
     public void imprimir() {
