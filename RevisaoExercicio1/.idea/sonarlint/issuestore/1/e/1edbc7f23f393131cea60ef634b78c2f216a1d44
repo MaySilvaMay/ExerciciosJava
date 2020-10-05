@@ -1,24 +1,31 @@
 
-}
-java:S1104
-"[Make dataContratacao a static final constant or non-public and provide accessors if needed.(¦úıéüÿÿÿÿ8â¦ÌşÎ.
-Z	java:S106L"9Replace this use of System.out or System.err by a logger.(Ÿ„É°şÿÿÿÿ8Í¹óşÎ.
-n
-java:S1104"QMake ativo a static final constant or non-public and provide accessors if needed.(öõüÚ8â¦ÌşÎ.
-o
-java:S1104"RMake idFunc a static final constant or non-public and provide accessors if needed.(Áà¥8ÁñËşÎ.
-S
-java:S1481M"1Remove this unused "valorSalario" local variable.(Ø¶Ñ³úÿÿÿÿ8Ÿî¡ÿÎ.
-q
-java:S1104"TMake nomeFunc a static final constant or non-public and provide accessors if needed.(õè  8â¦ÌşÎ.
-U	java:S106V"9Replace this use of System.out or System.err by a logger.(ÊÈÊ÷8ùà¥ÿÎ.
-n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÑér
-p
-java:S1104"SMake salario a static final constant or non-public and provide accessors if needed.(ú›Âè8â¦ÌşÎ.
+U	java:S106n"9Replace this use of System.out or System.err by a logger.(ì“8Æ‡­²Ï.
+U	java:S106t"9Replace this use of System.out or System.err by a logger.(ä†°Ë8÷ §²Ï.
 r
-java:S1104"UMake documento a static final constant or non-public and provide accessors if needed.(á“À¿8â¦ÌşÎ.
-Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ÛÕÆ·üÿÿÿÿ8•†“ÿÎ.
+java:S1104"UMake documento a static final constant or non-public and provide accessors if needed.(á“À¿8â¦ÌşÎ.
+Z	java:S106h"9Replace this use of System.out or System.err by a logger.(ÒÀ»ñúÿÿÿÿ8÷¤å±Ï.
+T	java:S106X"9Replace this use of System.out or System.err by a logger.(”È¸v8ùà¥ÿÎ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(Ø»É¶şÿÿÿÿ8˜”ü³Ï.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ì•Ü‚8øØü°Ï.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(šûã‡şÿÿÿÿ8ƒéµ³Ï.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(Ÿ„É°şÿÿÿÿ8Í¹óşÎ.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(ÛÕÆ·üÿÿÿÿ8•†“ÿÎ.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(Ã±ÏÜúÿÿÿÿ8˜ÙŞ³Ï.
 z
-java:S1104	"XMake departamento a static final constant or non-public and provide accessors if needed.(ä“Òôùÿÿÿÿ8â¦ÌşÎ.
-b
-java:S1854M"@Remove this useless assignment to local variable "valorSalario".(Ø¶Ñ³úÿÿÿÿ8Ÿî¡ÿÎ.
+java:S1104"XMake departamento a static final constant or non-public and provide accessors if needed.(ä“Òôùÿÿÿÿ8â¦ÌşÎ.
+}
+java:S1104"[Make dataContratacao a static final constant or non-public and provide accessors if needed.(¦úıéüÿÿÿÿ8â¦ÌşÎ.
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(Ã±ÏÜúÿÿÿÿ8ÑëŞ³Ï.
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(•ß¬àøÿÿÿÿ8ğÜ±²Ï.
+o
+java:S1104
+"RMake idFunc a static final constant or non-public and provide accessors if needed.(Áà¥8ÁñËşÎ.
+q
+java:S1104"TMake nomeFunc a static final constant or non-public and provide accessors if needed.(õè  8â¦ÌşÎ.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÊÑér
+n
+java:S1104"QMake ativo a static final constant or non-public and provide accessors if needed.(öõüÚ8â¦ÌşÎ.
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(²¹ö8ó²Ê±Ï.
+p
+java:S1104"SMake salario a static final constant or non-public and provide accessors if needed.(ú›Âè8â¦ÌşÎ.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(™çšùÿÿÿÿ8õäÿ³Ï.
