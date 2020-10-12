@@ -1,0 +1,11 @@
+
+P
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8‚×É«Ğ.
+>
+java:S1643"Use a StringBuilder instead.(ÿèéŞùÿÿÿÿ8ÌÇİ¬Ğ.
+8
+java:S1700"Rename field "cartela"(ñÚ£ıÿÿÿÿ8˜öÉ«Ğ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(½†Ç¯ıÿÿÿÿ8œæä¬Ğ.
+K
+java:S2140	")Use "java.util.Random.nextInt()" instead.(¶ëÂñøÿÿÿÿ8û‰¬Ğ.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ù¼£Ÿ
