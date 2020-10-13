@@ -1,6 +1,4 @@
 
-X
-(src/fatec/prjRevisaoExercicio5/Main.java,7/c/7c0bb02a76e478d31a963276cf259d8029f54140
 [
 +src/fatec/prjRevisaoExercicio5/Sorteio.java,3/7/376093964eabfe8307b56da6599ded31af6eff25
 [

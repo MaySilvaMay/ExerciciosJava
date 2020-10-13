@@ -12,5 +12,8 @@ public class Jogador {
         Cartela leo = new Cartela();
         leo.preencherCartela();
         leo.exibirCartela();
+
+        Sorteio sorteio = new Sorteio();
+        sorteio.gerarSorteio();
     }
 }
