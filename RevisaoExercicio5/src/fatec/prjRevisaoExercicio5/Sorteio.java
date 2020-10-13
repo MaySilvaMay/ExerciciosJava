@@ -8,12 +8,14 @@ public class Sorteio {
         return (int) ((Math.random() * (max - min)) + min);
     }
 
-    public void gerarSorteio()  {
+    public int gerarSorteio()  {
 
         int sorteio = this.getRandomNumber(1,75);
         System.out.println("----------------------------------");
         System.out.println("o numero sorteado eh: " + sorteio);
         System.out.println("----------------------------------");
+        return sorteio;
+
     }
 
 }
